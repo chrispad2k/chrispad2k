@@ -1,14 +1,15 @@
 <h1 align="center">Cheers everyone! 👋</h1>
 
-<div style="display: flex; margin: 20px 0; align-items: center;">
-  <p align="center" style="flex: 1;">
+<div style="margin: 20px 0; display: table;">
+  <img src="https://lh3.googleusercontent.com/proxy/FgFsY0CSBLHHsJjgOFWDiNyKzhAM_tTJHMI_qaRK9Mh4NXQPlCAyXfQeu0AWkbwJ57feh6Y" style="height: 200px; margin-left: 20px; float: right;"/>
+
+  <p align="center" style="width: auto; position: relative;top: 100px; transform: translateY(-50%);">
   I am Christoph, a software developer from Austria 🇦🇹 based in Vienna, the most beautiful city in the world. 🌆 I feel most comfortable in the world of JavaScript and .NET. I love to work with TypeScript and lately also ReasonML. 🥑
   </p>
 
-  <img src="https://lh3.googleusercontent.com/proxy/FgFsY0CSBLHHsJjgOFWDiNyKzhAM_tTJHMI_qaRK9Mh4NXQPlCAyXfQeu0AWkbwJ57feh6Y" style="height: 200px; margin-left: 20px;"/>
 </div>
 
-<h2 align="center">Currently i am working on...</h2>
+<h2 align="center" style="clear: both;">Currently i am working on...</h2>
 
 <ul>
   <li>
