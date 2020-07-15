@@ -11,7 +11,7 @@ I am Christoph, a software developer from Austria 🇦🇹 based in Vienna, the 
     My personal website 🖥
     <ul>
       <li>
-        Website: <a href="https://github.com/chrispad2k/chrispad2k.github.io">chrispad2k.github.io</a>
+        Website: <a href="https://chrispad2k.github.io">chrispad2k.github.io</a>
       </li>
       <li>
         Repo: <a href="https://github.com/chrispad2k/chrispad2k.github.io">github.com/chrispad2k/chrispad2k.github.io</a>
