@@ -1,45 +1,14 @@
-<style>
-  h1, h2, p {
-    text-align: center;
-  }
+<h1 align="center">Cheers everyone! 👋</h1>
 
-  #container {
-    display: flex;
-    margin: 20px 0;
-    align-items: center;
-  }
-
-  #container p {
-    flex: 1;
-  }
-
-  #container img {
-    flex: 0 0 100px;
-    margin-left: 20px;
-  }
-
-  @media(max-width: 700px) {
-    #container {
-      flex-direction: column;
-    }
-
-    #container img {
-      height: 200px;
-    }
-  }
-</style>
-
-<h1>Cheers everyone! 👋</h1>
-
-<div id="container">
-  <p>
+<div style="display: flex; margin: 20px 0; align-items: center;">
+  <p align="center" style="flex: 1;">
   I am Christoph, a software developer from Austria 🇦🇹 based in Vienna, the most beautiful city in the world. 🌆 I feel most comfortable in the world of JavaScript and .NET. I love to work with TypeScript and lately also ReasonML. 🥑
   </p>
 
-  <img src="img/thumbsup.gif" />
+  <img src="img/thumbsup.gif" style="height: 200px; margin-left: 20px;"/>
 </div>
 
-<h2>Currently i am working on...</h2>
+<h2 align="center">Currently i am working on...</h2>
 
 <ul>
   <li>
@@ -67,4 +36,4 @@
   </li>
 </ul>
 
-<h2> Feel free to contact me via <a href="mailto:chrispad2k@gmail.com">chrispad2k@gmail.com</a> 📯</h2>
+<h2 align="center"> Feel free to contact me via <a href="mailto:chrispad2k@gmail.com">chrispad2k@gmail.com</a> 📯</h2>
