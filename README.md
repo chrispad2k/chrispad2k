@@ -32,4 +32,4 @@ I am Christoph, a software developer from Austria 🇦🇹 based in Vienna, the 
   </li>
 </ul>
 
-<h2 align="center"> Feel free to contact me via <a href="mailto:chrispad2k@gmail.com">chrispad2k@gmail.com</a> 📯</h2>
+<h2 align="center"> Feel free to contact me via <a href="mailto:christoph.pader@outlook.com">christoph.pader@outlook.com</a> 📯</h2>
